@@ -52,6 +52,9 @@ The analysis includes return heatmaps, rolling correlation and beta analysis, dr
 
 
 ### Strategy Performance
+
+![Dashboard](14684190_KhinChan_Thar_Capstone_Project/Slide10.PNG)
+
 | Metric | Unhedged | Static Hedge | Dynamic Hedge |
 |---|---|---|---|
 | Return | Highest | Moderate | Lower |
@@ -64,6 +67,7 @@ The analysis includes return heatmaps, rolling correlation and beta analysis, dr
 - The **dynamic hedge** excels at capital preservation, with the smallest drawdown and lowest volatility.
 
 ### Stress Testing
+![Dashboard](14684190_KhinChan_Thar_Capstone_Project/Slide12.PNG)
 - During peak stress regimes, dynamic hedging reduces short-term losses by over **5%** compared to the unhedged portfolio.
 - The static hedge provides partial defence but lacks the adaptability of the dynamic approach.
 
@@ -78,6 +82,8 @@ The analysis includes return heatmaps, rolling correlation and beta analysis, dr
 | Aggressive growth-oriented | **Unhedged** | Only suitable when growth outweighs drawdown concerns |
 
 ### 🛠️ Implementation Guidelines
+![Dashboard](14684190_KhinChan_Thar_Capstone_Project/Slide8.PNG)
+
 - Use the **Rolling Beta Dashboard** to monitor regime shifts; activate dynamic hedging when beta exceeds **1.2**.
 - Use **90-day rolling correlation** as a regime-change warning system.
 - When the 90-day correlation is low or unstable, layer in **protective puts** to guard against abrupt shocks that beta-based strategies may miss.
