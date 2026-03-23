@@ -94,9 +94,9 @@ The analysis includes return heatmaps, rolling correlation and beta analysis, dr
 ## 📂 Project Structure
 
 ```
-📊 [Presentation Slides](14684190_KhinChan_Thar_Capstone_Project.pptx)
-📈 [Tableau] (14684190_KhinChan_Thar_Capstone_Project.twbx)
-📋 [Report] (14684190_KhinChan_Thar_Capstone_Report.docx)
+- 📊 [Presentation Slides](14684190_KhinChan_Thar_Capstone_Project.pptx)
+- 📈 [Tableau](14684190_KhinChan_Thar_Capstone_Project.twbx)
+- 📋 [Report](14684190_KhinChan_Thar_Capstone_Report.docx)
 
 
 ```
